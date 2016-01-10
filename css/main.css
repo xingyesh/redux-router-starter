@@ -1,0 +1,14 @@
+.m-first {
+    display: flex;
+    flex-direction: row;
+    background: #ddd;
+}
+
+.m-slider {
+	width: 60%
+}
+.m-info {
+    height: auto;
+    width: 20%;
+    border: 1px solid #fff;
+}

@@ -1,0 +1,45 @@
+{
+  "name": "react starter.",
+  "version": "1.0.0",
+  "description": "redux,react,react-router,redux-simple-router exmaples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-redux",
+    "redux",
+    "redux-simple-router",
+    "webpack"
+  ],
+  "author": "xushao",
+  "license": "ISC",
+  "dependencies": {
+    "amazeui-react": "^1.0.0-beta1",
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "history": "^1.17.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "^4.0.0",
+    "react-router": "^1.0.0-beta3",
+    "redux": "^3.0.5",
+    "redux-devtools": "^2.1.0",
+    "redux-router": "^1.0.0-beta5",
+    "redux-simple-router": "^1.0.2",
+    "redux-thunk": "^1.0.2",
+    "webpack": "^1.12.9"
+  }
+}
